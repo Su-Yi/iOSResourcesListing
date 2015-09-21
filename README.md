@@ -1,6 +1,6 @@
 ( ゜- ゜)つ  个人收集的优秀github资源。
 
-* 0. Objective-c 一个月内的star排行
+* 0. Objective-C 一个月内的star排行
 
 https://github.com/trending?l=objective-c&since=monthly
 
