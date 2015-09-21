@@ -1,4 +1,4 @@
-( ゜- ゜)つロ  个人收集的优秀github资源。
+( ゜- ゜)つ  个人收集的优秀github资源。
 
 0. Objective-c 一个月内的star排行
 
