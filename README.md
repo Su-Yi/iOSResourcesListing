@@ -14,7 +14,7 @@ http://github.ibireme.com/github/list/ios/
 
 https://github.com/tangqiaoboy/iOSBlogCN
 
-* 3. swift 中文版
+* 3. swift中文版
 
  https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/chapter1/chapter1.html
 
